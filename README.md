@@ -1,14 +1,15 @@
 ### Hi there 👋🏽
 
-- 👨🏻‍💻 Software Engineer at @LoyaltyOne
-- 🖥 Familiar with `Java`, `JavaScript` and `Kotlin`
+- 👨🏻‍💻 Software Engineer at [Nuvalence][1]
 - 📍 Based in Toronto 🇨🇦 
 - 🗣️ Speaks 🇧🇷 🇺🇸
+- 🖥 Familiar with `Java`, `JavaScript` and `Kotlin`
+- 🌱 Currently learning `Node`, `React`, `Python` and `k8s`
 - 😄 He/Him
 
 ## 📬 Get in touch
 
-[![Linkedin Badge](https://img.shields.io/badge/-EvertonMorais-blue?style=flat-square&logo=Linkedin&logoColor=white)][1]
+[![Linkedin Badge](https://img.shields.io/badge/-EvertonMorais-blue?style=flat-square&logo=Linkedin&logoColor=white)][2]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -20,7 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraiseverton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Everton Morais' GitHub Stats" />
 </a>
 
-[1]: https://www.linkedin.com/in/esdmorais
+[1]: https://nuvalence.io/
+[2]: https://www.linkedin.com/in/moraiseverton
 
 <!--
 **moraiseverton/moraiseverton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
